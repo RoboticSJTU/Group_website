@@ -1,19 +1,19 @@
 ---
 title: Example Event
 
-event: Wowchemy Conference
+event: tmp
 event_url: https://example.org
 
-location: Wowchemy HQ
+location: Shanghai
 address:
-  street: 450 Serra Mall
-  city: Stanford
-  region: CA
+  street: placeholder
+  city: placeholder
+  region: placeholder
   postcode: '94305'
-  country: United States
+  country: China
 
 summary: An example event.
-abstract: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam.'
+abstract: 'placeholder'
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
