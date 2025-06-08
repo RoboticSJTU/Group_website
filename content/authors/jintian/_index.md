@@ -60,4 +60,4 @@ user_groups:
   - Students
 ---
 
-Jintian Cai is currently a PHD student in RoPL.
+Jintian Cai is currently a Ph.D. student in RoPL.
