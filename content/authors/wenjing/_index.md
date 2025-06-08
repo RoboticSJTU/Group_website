@@ -1,10 +1,10 @@
 ---
 # Display name
-title: John Doe
+title: Wenjing Tang
 
 # Full Name (for SEO)
-first_name: John
-last_name: Doe
+first_name: Wenjing
+last_name: Tang
 
 # Is this the primary user of the site?
 superuser: true
@@ -18,20 +18,19 @@ organizations:
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include robotics, robotics and robotics
-
+bio: My research interests include robotics, task planning under uncertainty
 interests:
+  - Robotics
+  - Task Planning under Uncertainty
   - Robot
-  - Robot
-  - Robot
-education:
-  courses:
-    - course: Msc in robotics
-      institution: xxx College, xxx University, China
-      year: 2000
-    - course: Bsc in robotics
-      institution: xxx College, xxx University, China
-      year: 2000
+# education:
+#   courses:
+#     - course: Msc in robotics
+#       institution: xxx College, xxx University, China
+#       year: 2000
+#     - course: Bsc in robotics
+#       institution: xxx College, xxx University, China
+#       year: 2000
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -40,13 +39,13 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:cai_panpan@sjtu.edu.cn'
+    link: 'mailto:applesoup@sjtu.edu.cn'
   - icon: google-scholar
     icon_pack: ai
-    link: https://scholar.google.co.uk/citations?user=MZfL0qUAAAAJ
+    link: https://scholar.google.com/citations?user=3wrzFNcAAAAJ
   - icon: github
     icon_pack: fab
-    link: https://cindycia.github.io/
+    link: https://github.com/Applesoups
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -65,4 +64,4 @@ user_groups:
   - Students
 ---
 
-John Doe is currently a studenent in RoPL, he is doing something. Previously he did something
+Wenjing Tang is currently a PHD student in RoPL.
