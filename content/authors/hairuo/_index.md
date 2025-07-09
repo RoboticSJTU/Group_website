@@ -72,4 +72,4 @@ user_groups:
   - Students
 ---
 
-Hairuo Liu is currently a Ph.D. student in RoPL.
+Hairuo Liu is currently a Ph.D student in RoPL.
