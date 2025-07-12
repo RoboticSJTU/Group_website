@@ -28,7 +28,7 @@ interests:
 education:
   courses:
     - course: Ph.D in Artificial Intelligence
-      institution: Software of College, Nankai University, China
+      institution: Nankai University & Shanghai Innovation Institute
       year: 2024-Present
     - course: M.Eng in Software Engineer
       institution: Software of College, Nankai University, China
