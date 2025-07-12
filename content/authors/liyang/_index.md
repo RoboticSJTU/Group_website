@@ -69,4 +69,4 @@ user_groups:
   - Students
 ---
 
-Hi, I am Yang Li (李扬). I am a first-year PhD student at the SII & NKU, advised by Professor Panpan Cai. My research interests focus on long-horizon task planning and decision-making using LLMs. I am passionate about developing AI systems that can understand, reason, and make decisions in complex environments, with the ultimate goal of enhancing robotic intelligence and enabling more capable autonomous robots.
+Hi, I am Yang Li (李扬), a first-year PhD student at SII, Nankai University, supervised by Professor Panpan Cai. My research interests center on long-horizon task planning and decision-making using large language models (LLMs). I am passionate about developing AI models that can understand complex environments and make decisions, with the ultimate goal of advancing robotic intelligence.
