@@ -69,4 +69,4 @@ user_groups:
   - Students
 ---
 
-Jintian Cai is currently a Ph.D. student in RoPL.
+Hi, I am Yang Li (李扬). I am a first-year PhD student at the SII & NKU, advised by Professor Panpan Cai. My research interests focus on long-horizon task planning and decision-making using LLMs. I am passionate about developing AI systems that can understand, reason, and make decisions in complex environments, with the ultimate goal of enhancing robotic intelligence and enabling more capable autonomous robots.
