@@ -29,13 +29,13 @@ education:
   courses:
     - course: Ph.D in Artificial Intelligence
       institution: Nankai University & Shanghai Innovation Institute
-      year: 2024-Present
+      year: 2024 - Present
     - course: M.Eng in Software Engineer
       institution: Software of College, Nankai University, China
-      year: 2022-2024
+      year: 2022 - 2024
     - course: B.Eng in Computer Science
       institution: College, Ocean University of China
-      year: 2018-2022
+      year: 2018 - 2022
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -69,4 +69,4 @@ user_groups:
   - Students
 ---
 
-Hi, I am Yang Li (李扬), a first-year PhD student at SII, Nankai University, supervised by Professor Panpan Cai. My research interests center on long-horizon task planning and decision-making using large language models (LLMs). I am passionate about developing AI models that can understand complex environments and make decisions, with the ultimate goal of advancing robotic intelligence.
+Hi, I am Yang Li (李扬), a first-year PhD student at SII, Nankai University, supervised by Professor Panpan Cai. My research interests center on long-horizon task planning and decision-making using LLMs. I am passionate about developing AI models that can understand complex environments and make decisions, with the ultimate goal of advancing robotic intelligence.
