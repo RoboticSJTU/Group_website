@@ -10,26 +10,30 @@ last_name: Cai
 superuser: true
 
 # Role/position
-role: PH.D student
+role: Ph.D student
 
 # Organizations/Affiliations
 organizations:
   - name: Shanghai Jiao Tong University
     url: ''
+  - name: Shanghai Innovation Institute
+    url: "https://www.sii.edu.cn/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include robotics, manipulation
+bio: My research interests include robotics, robot manipulation
 interests:
   - Robotics
   - Manipulation
-# education:
-#   courses:
-#     - course: Msc in robotics
-#       institution: xxx College, xxx University, China
-#       year: 2000
-#     - course: Bsc in robotics
-#       institution: xxx College, xxx University, China
-#       year: 2000
+  courses:
+    - course: Ph.D in Computer Science
+      institution: Shanghai Jiao Tong University & Shanghai Innovation Institute
+      year: 2025 - Present
+    - course: M.A. in Statistics
+      institution: Department of Mathematics and Statistics, Boston University
+      year: 2020 - 2021
+    - course: Honours B.Sc
+      institution: University of Toronto
+      year: 2015 - 2019
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -60,4 +64,6 @@ user_groups:
   - Students
 ---
 
-Jintian Cai is currently a Ph.D. student in RoPL.
+Hi, I am Jintian Cai (蔡今天), a first-year PhD student at Shanghai Jiao Tong University (SJTU) and SII, supervised by Prof. Panpan Cai. I develop robotic systems embedded with physical knowledge.
+
+Previously, I was an autonomous driving engineer at Horizon Robotics. I received an M.S. degree in Statistics from Boston University (BU), USA, and an Honours B.Sc. degree from the University of Toronto (UofT), Canada.
