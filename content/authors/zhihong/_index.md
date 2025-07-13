@@ -1,0 +1,69 @@
+---
+# Display name
+title: Zhihong Liu
+
+# Full Name (for SEO)
+first_name: Zhihong
+last_name: Liu
+
+# Is this the primary user of the site?
+superuser: true
+
+# Role/position
+role: PH.D student
+
+# Organizations/Affiliations
+organizations:
+  - name: Shanghai Innovation Institute
+    url: ''
+  - name: Xian Jiaotong University
+    url: ''
+
+# Short bio (displayed in user profile at end of posts)
+bio: My research interests include robotics, task planning and decision-making
+interests:
+  - Robot planning and decision making
+  - Task Planning
+
+# education:
+#   courses:
+#     - course: Msc in robotics
+#       institution: xxx College, xxx University, China
+#       year: 2000
+#     - course: Bsc in robotics
+#       institution: xxx College, xxx University, China
+#       year: 2000
+
+# Social/Academic Networking
+# For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
+#   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
+#   form "mailto:your-email@example.com" or "#contact" for contact widget.
+social:
+  - icon: envelope
+    icon_pack: fas
+    link: 'mailto:liuzhihong1026@163.com'
+  - icon: google-scholar
+    icon_pack: ai
+    link: https://scholar.google.com/citations?user=lZGDweMAAAAJ&hl=zh-CN
+  - icon: github
+    icon_pack: fab
+    link: https://github.com/lzh2918
+# Link to a PDF of your resume/CV from the About widget.
+# To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
+# - icon: cv
+#   icon_pack: ai
+#   link: files/cv.pdf
+
+# Enter email to display Gravatar (if Gravatar enabled in Config)
+email: ''
+
+# Highlight the author in author lists? (true/false)
+highlight_name: false
+
+# Organizational groups that you belong to (for People widget)
+#   Set this to `[]` or comment out if you are not using People widget.
+user_groups:
+  - Students
+---
+
+Liu Zhihong is currently a PHD student in RoPL.
