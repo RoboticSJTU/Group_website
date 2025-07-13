@@ -25,6 +25,8 @@ bio: My research interests include robotics, robot manipulation
 interests:
   - Robotics
   - Manipulation
+
+education:
   courses:
     - course: Ph.D in Computer Science
       institution: Shanghai Jiao Tong University & Shanghai Innovation Institute
