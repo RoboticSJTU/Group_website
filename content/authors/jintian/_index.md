@@ -21,6 +21,7 @@ organizations:
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include robotics, robot manipulation
+
 interests:
   - Robotics
   - Manipulation
@@ -66,4 +67,4 @@ user_groups:
 
 Hi, I am Jintian Cai (蔡今天), a first-year PhD student at Shanghai Jiao Tong University (SJTU) and SII, supervised by Prof. Panpan Cai. I develop robotic systems embedded with physical knowledge.
 
-Previously, I was an autonomous driving engineer at Horizon Robotics. I received an M.S. degree in Statistics from Boston University (BU), USA, and an Honours B.Sc. degree from the University of Toronto (UofT), Canada.
+Previously, I was an autonomous driving engineer at Horizon Robotics. I received an M.A. degree in Statistics from Boston University (BU), USA, and an Honours B.Sc. degree from the University of Toronto (UofT), Canada.
