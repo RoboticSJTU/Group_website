@@ -65,4 +65,4 @@ user_groups:
   - Students
 ---
 
-Hi, I'm Zeng Chendong (曾宸东), a first-year Master's student at Shanghai Jiao Tong University (SJTU), advised by Prof. Panpan Cai. My research focuses on generalizable robot manipulation models.
+Hi, I am Zeng Chendong (曾宸东), a first-year Master student at Shanghai Jiao Tong University (SJTU), advised by Prof. Panpan Cai. My research focuses on generalizable robot manipulation models.
