@@ -8,7 +8,7 @@ sections:
   - block: slider
     content:
       slides:
-      - title: 👋 Welcome to the RObot Planning and Learning group
+      - title: 👋 Welcome to the Robot Planning and Learning group
         content: Take a look at what we're working on...
         align: center
         background:
