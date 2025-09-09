@@ -8,12 +8,22 @@ sections:
   - block: slider
     content:
       slides:
-      - title: 👋 Welcome to the group
+      - title: 👋 Welcome to the RObot Planning and Learning group
         content: Take a look at what we're working on...
         align: center
         background:
           image:
             filename: coders.jpg
+            filters:
+              brightness: 0.7
+          position: right
+          color: '#666'
+      - title: 'AHAT: Any House, Any Task Planning!'
+        content: Long horizon embodied decision making using common sense.
+        alige: top
+        background:
+          image:
+            filename: ahat.png
             filters:
               brightness: 0.7
           position: right
