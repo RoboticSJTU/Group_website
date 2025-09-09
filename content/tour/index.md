@@ -17,17 +17,29 @@ sections:
             filters:
               brightness: 0.7
           position: right
-          color: '#666'
+          color: '#747474ff'
       - title: 'AHAT: Any House, Any Task Planning!'
         content: Long horizon embodied decision making using common sense.
-        alige: top
+        align: top
         background:
           image:
             filename: ahat.png
             filters:
               brightness: 0.7
-          position: right
+          position: center
           color: '#666'
+      - title: 'Unidomain'
+        content: 'Pretraining a Unified PDDL Domain from Real-World Demonstrations for Generalizable Robot Task Planning'
+        align: top
+        background:
+          image:
+            filename: unidomain.png
+            filters:
+              brightness: 0.7
+          position: center
+          color: '#747474ff'
+        link:
+          url: "https://unidomain.github.io/"
       - title: Lunch & Learn ☕️
         content: 'Share your knowledge with the group and explore exciting new topics together!'
         align: left
