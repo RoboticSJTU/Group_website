@@ -17,7 +17,7 @@ sections:
             filters:
               brightness: 0.7
           position: right
-          color: '#747474ff'
+          color: '#666'
       - title: 'AHAT: Any House, Any Task Planning!'
         content: Long horizon embodied decision making using common sense.
         align: top
@@ -27,7 +27,7 @@ sections:
             filters:
               brightness: 0.7
           position: center
-          color: '#666'
+          color: '#747474ff'
       - title: 'Unidomain'
         content: 'Pretraining a Unified PDDL Domain from Real-World Demonstrations for Generalizable Robot Task Planning'
         align: top
@@ -40,6 +40,22 @@ sections:
           color: '#747474ff'
         link:
           url: "https://unidomain.github.io/"
+          text: Project Page
+
+      - title: 'Tru-POMDP'
+        content: 'Task Planning Under Uncertainty via Tree of Hypotheses and Open-Ended POMDPs'
+        align: top
+        background:
+          image:
+            filename: trupomdp.png
+            filters:
+              brightness: 0.7
+          position: center
+          color: '#747474ff'
+        link:
+          url: "https://tru-pomdp.github.io/"
+          text: Project Page
+
       - title: Lunch & Learn ☕️
         content: 'Share your knowledge with the group and explore exciting new topics together!'
         align: left
