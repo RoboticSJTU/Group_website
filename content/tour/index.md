@@ -17,7 +17,7 @@ sections:
             filters:
               brightness: 0.7
           position: right
-          color: '#666'
+          color: '#747474ff'
       - title: 'AHAT: Any House, Any Task Planning!'
         content: Long horizon embodied decision making using common sense.
         align: top
@@ -74,7 +74,7 @@ sections:
             filters:
               brightness: 0.5
           position: center
-          color: '#333'
+          color: '#747474ff'
         link:
           icon: graduation-cap
           icon_pack: fas
