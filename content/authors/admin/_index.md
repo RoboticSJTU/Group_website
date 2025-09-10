@@ -18,7 +18,7 @@ organizations:
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include robot motion planning, decision making, robot learning, parallel computing, and their applications to autonomous driving in crowded environments.
 
 interests:
   - Robot planning and decision making
