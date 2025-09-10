@@ -55,6 +55,16 @@ sections:
         link:
           url: "https://tru-pomdp.github.io/"
           text: Project Page
+      - title: 'Hi-Drive'
+        content: 'Hierarchical POMDP Planning for Safe Autonomous Driving in Diverse Urban Environments'
+        align: top
+        background:
+          image:
+            filename: hidrive.jpg
+            filters:
+              brightness: 0.7
+          position: center
+          color: '#747474ff'
       - title: RoPL
         content: 'We are hiring!'
         align: right
