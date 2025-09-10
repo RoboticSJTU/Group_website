@@ -72,7 +72,7 @@ sections:
           image:
             filename: welcome.png
             filters:
-              brightness: 0.5
+              brightness: 0.7
           position: center
           color: '#747474ff'
         link:
