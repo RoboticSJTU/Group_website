@@ -9,4 +9,5 @@ publishDate: '2025-09-10T08:50:13.281799Z'
 publication_types:
 - paper-conference
 publication: '*Robotics: Science & Systems*'
+url_pdf: 'https://arxiv.org/abs/2011.03813'
 ---

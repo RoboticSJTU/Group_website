@@ -16,4 +16,5 @@ publishDate: '2025-09-10T08:50:13.317381Z'
 publication_types:
 - article-journal
 publication: '*arXiv preprint arXiv:2408.09675*'
+url_pdf: 'https://arxiv.org/abs/2408.09675'
 ---

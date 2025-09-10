@@ -12,4 +12,5 @@ publishDate: '2025-09-10T08:50:13.239871Z'
 publication_types:
 - article-journal
 publication: '*IEEE Robotics and Automation Letters*'
+url_pdf: 'https://arxiv.org/pdf/1805.11833'
 ---

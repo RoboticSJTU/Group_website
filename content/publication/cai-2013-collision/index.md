@@ -13,4 +13,5 @@ publishDate: '2025-09-10T08:50:13.251940Z'
 publication_types:
 - chapter
 publication: '*Simulations, Serious Games and Their Applications*'
+url_pdf: 'https://link.springer.com/chapter/10.1007/978-981-4560-32-0_1'
 ---

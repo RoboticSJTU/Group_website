@@ -11,4 +11,5 @@ publishDate: '2025-09-10T08:50:13.233997Z'
 publication_types:
 - chapter
 publication: '*Simulation and Serious Games for Education*'
+url_pdf: ''
 ---

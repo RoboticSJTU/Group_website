@@ -14,4 +14,5 @@ publication_types:
 - paper-conference
 publication: '*2019 IEEE/RSJ International Conference on Intelligent Robots and Systems
   (IROS)*'
+url_pdf: 'https://ieeexplore.ieee.org/abstract/document/8967873'
 ---

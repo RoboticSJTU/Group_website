@@ -10,4 +10,5 @@ publishDate: '2025-09-10T08:50:13.246024Z'
 publication_types:
 - paper-conference
 publication: '*Robotics: Science & Systems*'
+url_pdf: 'https://arxiv.org/abs/1802.06215'
 ---

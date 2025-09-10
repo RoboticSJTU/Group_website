@@ -9,4 +9,5 @@ publishDate: '2025-09-10T08:50:13.293700Z'
 publication_types:
 - paper-conference
 publication: '*Conference on Robot Learning*'
+url_pdf: 'https://arxiv.org/abs/2209.11422'
 ---

@@ -11,4 +11,5 @@ publishDate: '2025-09-10T08:50:13.222064Z'
 publication_types:
 - article-journal
 publication: '*IEEE Transactions on Industrial Informatics*'
+url_pdf: 'https://ieeexplore.ieee.org/abstract/document/7949141'
 ---
