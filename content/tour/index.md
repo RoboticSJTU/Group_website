@@ -70,7 +70,7 @@ sections:
         align: right
         background:
           image:
-            filename: welcome.jpg
+            filename: welcome.png
             filters:
               brightness: 0.5
           position: center
