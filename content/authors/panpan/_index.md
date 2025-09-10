@@ -15,7 +15,9 @@ role: Associate Professor
 # Organizations/Affiliations
 organizations:
   - name: Shanghai Jiao Tong University
-    url: ''
+    url: "https://www.sjtu.edu.cn/"
+  - name: Shanghai Innovation Institute
+    url: "https://www.sii.edu.cn/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include robot motion planning, decision making, robot learning, parallel computing, and their applications to autonomous driving in crowded environments.

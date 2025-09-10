@@ -10,7 +10,7 @@ sections:
       title: |
         RoPL
       image:
-        filename: welcome.jpg
+        filename: ropl.jpg
       text: |
         <br>
         

@@ -16,8 +16,8 @@ role: Master student
 organizations:
   - name: Shanghai Jiao Tong University
     url: "https://www.sjtu.edu.cn/"
-  # - name: Shanghai Innovation Institute
-  #   url: "https://www.sii.edu.cn/"
+  - name: Shanghai Innovation Institute
+    url: "https://www.sii.edu.cn/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include robotics, robot manipulation and robot learning.
