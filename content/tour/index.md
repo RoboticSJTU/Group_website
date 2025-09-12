@@ -65,21 +65,6 @@ sections:
               brightness: 0.7
           position: center
           color: '#747474ff'
-      - title: RoPL
-        content: 'We are hiring!'
-        align: right
-        background:
-          image:
-            filename: welcome.png
-            filters:
-              brightness: 0.7
-          position: center
-          color: '#747474ff'
-        link:
-          icon: graduation-cap
-          icon_pack: fas
-          text: Join Us
-          url: ../contact/
     design:
       # Slide height is automatic unless you force a specific height (e.g. '400px')
       slide_height: ''
