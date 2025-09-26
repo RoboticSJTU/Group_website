@@ -1,6 +1,10 @@
 ---
 title: "Hi-Drive Paper Accepted by IEEE Robotics and Automation Letters (RA-L)"
 date: 2025-09-26
+authors:
+  - xuanjin
+  - chendong
+  - panpan
 ---
 
 🎊 Excellent news! We are delighted to announce that our paper **"Hi-Drive: Hierarchical POMDP Planning for Safe Autonomous Driving in Diverse Urban Environments"** has been accepted for publication in **IEEE Robotics and Automation Letters (RA-L)**.

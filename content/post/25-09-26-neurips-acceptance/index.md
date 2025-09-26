@@ -1,6 +1,12 @@
 ---
 title: Two Papers Accepted by NeurIPS 2025
 date: 2025-09-26
+authors:
+  - yunxiao
+  - haoming
+  - wenjing
+  - xinyu
+  - panpan
 ---
 
 🎉 Congratulations to our research team! We are thrilled to announce that **two papers** from our group have been accepted by the **Conference on Neural Information Processing Systems (NeurIPS) 2025**.
