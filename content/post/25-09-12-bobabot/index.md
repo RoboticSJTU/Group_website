@@ -21,5 +21,5 @@ Our robotic barista, "Boba Bot," was put to the test, running non-stop for two c
 Boba Bot serves as the official real-world showcase for our [NeurIPS'25] UniDomain project. The ability of the robot to operate autonomously and consistently is powered by the core principles of our UniDomain framework, bridging the gap between theoretical research and practical, tangible application.
 <!-- 嵌入 Bilibili 播放器 -->
 <div style="max-width:100%; margin:0 auto;">
-  <iframe src="https://www.bilibili.com/video/BV1uP2cBYEaf/?spm_id_from=333.1387.homepage.video_card.click&vd_source=16f9b08f6a0c89038844661bec8792e3" width="100%" height="498" scrolling="no" frameborder="0" allowfullscreen="true"></iframe>
+  <iframe src="https://www.bilibili.com/video/BV1uP2cBYEaf/?spm_id_from=333.1387.homepage.video_card.click&vd_source=95b8b687ab9c5a2fea86be161a9e59d5" width="100%" height="498" scrolling="no" frameborder="0" allowfullscreen="true"></iframe>
 </div>
