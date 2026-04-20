@@ -23,7 +23,7 @@ sections:
           align: top
           background:
             image:
-              filename: ahat.png
+              filename: ahat_rss_version.png
               filters:
                 brightness: 0.7
             position: center
@@ -58,6 +58,7 @@ sections:
           link:
             url: "https://tru-pomdp.github.io/"
             text: Project Page
+    
         - title: "Hi-Drive"
           content: "Hierarchical POMDP Planning for Safe Autonomous Driving in Diverse Urban Environments"
           align: top
@@ -68,6 +69,20 @@ sections:
                 brightness: 0.7
             position: center
             color: "#747474ff"
+        
+        - title: "Vec-QMDP"
+          content: "Vec-QMDP: Vectorized POMDP Planning on CPUs for Real-Time Autonomous Driving"
+          align: top
+          background:
+            image:
+              filename: vecqmdp.png
+              filters:
+                brightness: 0.7
+            position: center
+            color: "#747474ff"
+          link:
+            url: "https://sii-boluomonster.github.io/VecQMDP-website/"
+            text: Project Page
     design:
       # Slide height is automatic unless you force a specific height (e.g. '400px')
       slide_height: ""
