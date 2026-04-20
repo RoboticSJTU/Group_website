@@ -1,11 +1,11 @@
 ---
 title: "Any House Any Task: Scalable Long-Horizon Planning for Abstract Human Tasks"
 authors:
-  - Zhihong Liu
-  - Yang Li
-  - Renming Huang
+  - zhihong
+  - liyang
+  - renming
   - Cewu Lu
-  - Panpan Cai
+  - panpan
 date: "2026-02-01"
 publishDate: "2026-02-01T08:50:13.341661Z"
 publication_types:
