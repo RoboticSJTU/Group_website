@@ -38,4 +38,4 @@ user_groups:
   - Students  # Options: "Faculty", "Students", "Alumni"
 ---
 
-PHD student in RoPL co-supervised with Prof. Cewu Lu.
+Ph.D student in RoPL co-supervised with Prof. [Cewu Lu](https://scholar.google.com/citations?user=QZVQEWAAAAAJ&hl=en).
