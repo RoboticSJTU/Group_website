@@ -23,7 +23,7 @@ sections:
           align: top
           background:
             image:
-              filename: ahat.png
+              filename: ahat_rss_version.png
               filters:
                 brightness: 0.7
             position: center
