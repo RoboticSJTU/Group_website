@@ -2,11 +2,11 @@
 title: "Any House Any Task (AHAT) is Now Public"
 date: 2026-02-01
 authors:
-  - Zhihong Liu
-  - Yang Li
-  - Renming Huang
-  - Cewu Lu
-  - Panpan Cai
+  - zhihong
+  - liyang
+  - renming
+  - cewu
+  - panpan
 ---
 
 🚀 Exciting News! We are thrilled to announce the release of our latest work:“Any House Any Task: Scalable Long-Horizon Planning for Abstract Human Tasks.” This research tackles long-horizon planning in large environments given ambiguous human instructions.
