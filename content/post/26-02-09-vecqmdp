@@ -1,0 +1,27 @@
+---
+title: "Vec-QMDP: Vectorized POMDP Planning on CPUs for Real-Time Autonomous Driving"
+date: 2026-02-09
+authors:
+  - Xuanjin Jin
+  - Yanxin Dong
+  - Bin Sun
+  - Huan Xu
+  - Zhihui Hao
+  - XianPeng Lang
+  - Panpan Cai
+---
+
+🚀 Exciting News! We are thrilled to announce the release of our latest work:“Vec-QMDP: Vectorized POMDP Planning on CPUs for Real-Time Autonomous Driving.” Vec-QMDP redefines real-time planning by leveraging CPU-native SIMD parallelism to achieve over 200x speedup, delivering millisecond-level decision-making for large-scale autonomous driving.
+<!--more-->
+
+## Paper Details
+
+**Title:** Vec-QMDP: Vectorized POMDP Planning on CPUs for Real-Time Autonomous Driving
+
+**Authors:** Xuanjin Jin, Yanxin Dong, Bin Sun, Huan Xu, Zhihui Hao, XianPeng Lang and Panpan Cai
+
+**Abstract:** Planning under uncertainty for real-world robotics tasks, such as autonomous driving, requires reasoning in enormous high-dimensional belief spaces, rendering the problem computationally intensive. While parallelization offers scalability, existing hybrid CPU-GPU solvers face critical bottlenecks due to host-device synchronization latency and branch divergence on SIMT architectures, limiting their utility for real-time planning and hindering real-robot deployment. We present VecQMDP, a CPU-native parallel planner that aligns POMDP search with modern CPUs’ SIMD architecture, achieving 227×–1073× speedup over state-of-the-art serial planners. Vec-QMDP adopts a Data-Oriented Design (DOD), refactoring scattered, pointerbased data structures into contiguous, cache-efficient memory layouts. We further introduce a hierarchical parallelism scheme: distributing sub-trees across independent CPU cores and SIMD lanes, enabling fully vectorized tree expansion and collision checking. Efficiency is maximized with the help of UCB load balancing across trees and a vectorized STR-tree for coarse-level collision checking. Evaluated on large-scale autonomous driving benchmarks, Vec-QMDP achieves state-of-the-art planning performance with millisecond-level latency, establishing CPUs as a high-performance computing platform for large-scale planning under uncertainty.
+- **Paper**: [Available on arXiv](https://arxiv.org/abs/2602.08334)
+- **Project Page**: [VecQMDP Project Website](https://sii-boluomonster.github.io/VecQMDP-website/)
+
+We are excited to share this work with the robotics community and look forward to your feedback and potential collaborations!
