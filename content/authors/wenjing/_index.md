@@ -10,7 +10,7 @@ last_name: Tang
 superuser: true
 
 # Role/position
-role: PH.D student
+role: Ph.D. student
 
 # Organizations/Affiliations
 organizations:
@@ -64,4 +64,4 @@ user_groups:
   - Students
 ---
 
-Wenjing Tang is currently a PHD student in RoPL.
+Wenjing Tang is currently a Ph.D. student in RoPL.

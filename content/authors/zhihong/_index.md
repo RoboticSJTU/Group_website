@@ -10,7 +10,7 @@ last_name: Liu
 superuser: true
 
 # Role/position
-role: PH.D student
+role: Ph.D. student
 
 # Organizations/Affiliations
 organizations:
@@ -66,4 +66,4 @@ user_groups:
   - Students
 ---
 
-Liu Zhihong is currently a PHD student in RoPL.
+Liu Zhihong is currently a Ph.D. student in RoPL.
