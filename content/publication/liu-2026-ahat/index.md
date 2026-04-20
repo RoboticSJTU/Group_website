@@ -3,7 +3,7 @@ title: "Any House Any Task: Scalable Long-Horizon Planning for Abstract Human Ta
 authors:
   - Zhihong Liu
   - Yang Li
-  - Rengming Huang
+  - Renming Huang
   - Cewu Lu
   - Panpan Cai
 date: "2026-02-01"
