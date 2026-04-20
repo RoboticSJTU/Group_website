@@ -21,7 +21,7 @@ organizations:
 bio: My research interests include robotics, task planning and Reinforcement Learning
 interests:
   - Robotics
-  - Task Planning
+  - Manipulation
   - Reinforcement Learning
 
 # Social/Academic Networking
@@ -31,13 +31,13 @@ interests:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:your-email@example.com'
+    link: 'mailto:zhuhaowu@sjtu.edu.cn'
   - icon: google-scholar
     icon_pack: ai
     link: 
   - icon: github
     icon_pack: fab
-    link: 
+    link: https://github.com/lqzhw520
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -45,7 +45,7 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ''
+email: 'zhuhaowu@sjtu.edu.cn'
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false
@@ -56,4 +56,4 @@ user_groups:
   - Students
 ---
 
-Please enter your biography here. 
+A first-year full-time PhD student at the School of Computer Science, Shanghai Jiao Tong University, supervised by Prof. Panpan Cai. Meanwhile, I serves as the R&D Director at ACE Robotics.
