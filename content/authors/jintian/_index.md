@@ -10,7 +10,7 @@ last_name: Cai
 superuser: true
 
 # Role/position
-role: Ph.D student
+role: Ph.D. student
 
 # Organizations/Affiliations
 organizations:
@@ -28,7 +28,7 @@ interests:
 
 education:
   courses:
-    - course: Ph.D in Computer Science
+    - course: Ph.D. in Computer Science
       institution: Shanghai Jiao Tong University & Shanghai Innovation Institute
       year: 2025 - Present
     - course: M.A. in Statistics
@@ -67,6 +67,6 @@ user_groups:
   - Students
 ---
 
-Hi, I am Jintian Cai (蔡今天), a first-year PhD student at Shanghai Jiao Tong University (SJTU) and SII, supervised by Prof. Panpan Cai. I develop robotic systems embedded with physical knowledge.
+Hi, I am Jintian Cai (蔡今天), a first-year Ph.D. student at Shanghai Jiao Tong University (SJTU) and SII, supervised by Prof. Panpan Cai. I develop robotic systems embedded with physical knowledge.
 
 Previously, I was an autonomous driving engineer at Horizon Robotics. I received an M.A. degree in Statistics from Boston University (BU), USA, and an Honours B.Sc. degree from the University of Toronto (UofT), Canada.

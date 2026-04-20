@@ -10,7 +10,7 @@ last_name: Ye
 superuser: true
 
 # Role/position
-role: Ph.D student
+role: Ph.D. student
 
 # Organizations/Affiliations
 organizations:
@@ -29,7 +29,7 @@ interests:
 # Education
 education:
   courses:
-    - course: Ph.D in Computer Science
+    - course: Ph.D. in Computer Science
       institution: Shanghai Jiao Tong University
       year: 2025-Present
 
@@ -66,4 +66,4 @@ user_groups:
   - Students
 ---
 
-Haoming Ye is currently a Ph.D student in RoPL.
+Haoming Ye is currently a Ph.D. student in RoPL.

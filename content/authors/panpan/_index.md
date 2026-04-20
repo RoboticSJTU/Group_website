@@ -31,7 +31,7 @@ interests:
 
 education:
   courses:
-    - course: PhD in Robotics, 2016
+    - course: Ph.D. in Robotics, 2016
       institution: Nanyang Technological University, Singapore
       year: 2016
     - course: Bsc in Computational Mathematics
@@ -70,4 +70,4 @@ user_groups:
   -  Faculty
 ---
 
-Panpan Cai is currently an associate professor in Shanghai Jiao Tong University (SJTU), China. Prior to that, she was a postdoctoral research fellow supervised by Prof. David Hsu at the Department of Computer Science, National University of Singapore. She received my PhD degree from the Nanyang Technological University. She have been focusing on tackling large-scale decision making problems in robotics that involve complex environments, uncertainties and long-term planning. Her research interests include robot motion planning, decision making, robot learning, parallel computing, and their applications to autonomous driving in crowded environments.
+Panpan Cai is currently an associate professor in Shanghai Jiao Tong University (SJTU), China. Prior to that, she was a postdoctoral research fellow supervised by Prof. David Hsu at the Department of Computer Science, National University of Singapore. She received my Ph.D. degree from the Nanyang Technological University. She have been focusing on tackling large-scale decision making problems in robotics that involve complex environments, uncertainties and long-term planning. Her research interests include robot motion planning, decision making, robot learning, parallel computing, and their applications to autonomous driving in crowded environments.

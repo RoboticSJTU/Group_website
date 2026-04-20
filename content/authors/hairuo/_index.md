@@ -10,7 +10,7 @@ last_name: Liu
 superuser: true
 
 # Role/position
-role: Ph.D student
+role: Ph.D. student
 
 # Organizations/Affiliations
 organizations:
@@ -29,7 +29,7 @@ interests:
 # Education
 education:
   courses:
-    - course: Ph.D in Computer Science
+    - course: Ph.D. in Computer Science
       institution: Shanghai Jiao Tong University
       year: 2024-Present
     - course: B.Eng in Artificial Intelligence
@@ -72,4 +72,4 @@ user_groups:
   - Students
 ---
 
-Hairuo Liu is currently a Ph.D student in RoPL.
+Hairuo Liu is currently a Ph.D. student in RoPL.

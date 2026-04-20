@@ -10,7 +10,7 @@ last_name: Li
 superuser: true
 
 # Role/position
-role: PH.D student
+role: Ph.D. student
 
 # Organizations/Affiliations
 organizations:
@@ -27,7 +27,7 @@ interests:
   - Decision making
 education:
   courses:
-    - course: Ph.D in Artificial Intelligence
+    - course: Ph.D. in Artificial Intelligence
       institution: Nankai University & Shanghai Innovation Institute
       year: 2024 - Present
     - course: M.Eng in Software Engineer
@@ -69,4 +69,4 @@ user_groups:
   - Students
 ---
 
-Hi, I am Yang Li (李扬), a first-year PhD student at SII, Nankai University, supervised by Professor Panpan Cai. My research interests center on long-horizon task planning and decision-making using LLMs. I am passionate about developing AI models that can understand complex environments and make decisions, with the ultimate goal of advancing robotic intelligence.
+Hi, I am Yang Li (李扬), a first-year Ph.D. student at SII, Nankai University, supervised by Professor Panpan Cai. My research interests center on long-horizon task planning and decision-making using LLMs. I am passionate about developing AI models that can understand complex environments and make decisions, with the ultimate goal of advancing robotic intelligence.

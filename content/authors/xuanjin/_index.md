@@ -10,7 +10,7 @@ last_name: Jin
 superuser: true
 
 # Role/position
-role: PH.D student
+role: Ph.D. student
 
 # Organizations/Affiliations
 organizations:
@@ -27,7 +27,7 @@ interests:
   - Integrated planning and learning
 education:
   courses:
-    - course: Ph.D in Computer Science
+    - course: Ph.D. in Computer Science
       institution: Shanghai Jiao Tong University & Shanghai Innovation Institute
       year: 2022 - Present
     - course: B.Eng in ECE
@@ -63,4 +63,4 @@ user_groups:
   - Students
 ---
 
-Hi, I am Xuanjin, currently a PhD student at Shanghai Jiao Tong University (SJTU), focusing on advancing the field of autonomous driving. My research aims to address the critical issue of uncertainty in autonomous driving. By integrating learning and planning methods, I strive to develop robust solutions that enhance the safety and efficiency of autonomous systems.
+Hi, I am Xuanjin, currently a Ph.D. student at Shanghai Jiao Tong University (SJTU), focusing on advancing the field of autonomous driving. My research aims to address the critical issue of uncertainty in autonomous driving. By integrating learning and planning methods, I strive to develop robust solutions that enhance the safety and efficiency of autonomous systems.
