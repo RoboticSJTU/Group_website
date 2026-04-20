@@ -18,7 +18,7 @@ sections:
                 brightness: 0.7
             position: right
             color: "#747474ff"
-         - title: "Mimic Intent, Not Just Trajectories"
+        - title: "Mimic Intent, Not Just Trajectories"
           content: An intent-to-execution policy for precise and transferable robotic manipulation.
           align: top
           background:
