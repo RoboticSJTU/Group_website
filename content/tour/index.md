@@ -75,7 +75,7 @@ sections:
           align: top
           background:
             image:
-              filename: vecqmdp.jpg
+              filename: vecqmdp.png
               filters:
                 brightness: 0.7
             position: center
