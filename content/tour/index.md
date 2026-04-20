@@ -19,7 +19,7 @@ sections:
             position: right
             color: "#747474ff"
         - title: "AHAT: Any House, Any Task Planning!"
-          content: Long horizon embodied decision making using common sense.
+          content: Household task planner optimized for long-horizon planning in large environments given abstract human instruction.
           align: top
           background:
             image:

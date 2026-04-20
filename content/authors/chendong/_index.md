@@ -10,7 +10,7 @@ last_name: Zeng
 superuser: true
 
 # Role/position
-role: Master student
+role: Ph.D student
 
 # Organizations/Affiliations
 organizations:
@@ -29,7 +29,7 @@ interests:
 
 education:
   courses:
-    - course: M.Eng in Artificial Intelligence
+    - course: Ph.D in Artificial Intelligence
       institution: Department of Computer Science and Engineering, Shanghai Jiao Tong University
       year: 2024 - Present
     - course: B.Eng in Automation
@@ -65,4 +65,4 @@ user_groups:
   - Students
 ---
 
-Hi, I am Zeng Chendong (曾宸东), a first-year Master student at Shanghai Jiao Tong University (SJTU), advised by Prof. Panpan Cai. My research focuses on generalizable robot manipulation models.
+Hi, I am Zeng Chendong (曾宸东), a Ph.D student at Shanghai Jiao Tong University (SJTU), advised by Prof. Panpan Cai. My research focuses on generalizable robot manipulation models.
