@@ -12,4 +12,5 @@ publication_types:
   - article-journal
 publication: "*arXiv preprint arXiv:2602.12244*"
 url_pdf: "https://arxiv.org/abs/2602.12244"
+url_project: 'https://sii-liyang2024.github.io/ahat/'
 ---

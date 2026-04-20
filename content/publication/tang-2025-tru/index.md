@@ -14,4 +14,5 @@ publication_types:
 - article-journal
 publication: '*arXiv preprint arXiv:2506.02860*'
 url_pdf: 'https://arxiv.org/abs/2506.02860'
+url_project: 'https://tru-pomdp.github.io/'
 ---

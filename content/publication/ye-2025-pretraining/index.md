@@ -12,5 +12,5 @@ publication_types:
 - article-journal
 publication: '*arXiv preprint arXiv:2507.21545*'
 url_pdf: 'https://arxiv.org/abs/2507.21545'
-url_project: 'https://unidomain.github.io/'
+url_project: 'https://roboticsjtu.github.io/UniDomain/'
 ---

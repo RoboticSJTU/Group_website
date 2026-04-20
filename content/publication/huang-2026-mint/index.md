@@ -13,4 +13,5 @@ publication_types:
   - article-journal
 publication: "*arXiv preprint arXiv:2602.08602*"
 url_pdf: "https://arxiv.org/abs/2602.08602"
+url_project: 'https://renming-huang.github.io/MINT/'
 ---
