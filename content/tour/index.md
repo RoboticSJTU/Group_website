@@ -55,7 +55,7 @@ sections:
             position: center
             color: "#747474ff"
           link:
-            url: "https://unidomain.github.io/"
+            url: "https://roboticsjtu.github.io/UniDomain/"
             text: Project Page
 
         - title: "Tru-POMDP"
