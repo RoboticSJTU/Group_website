@@ -8,6 +8,7 @@ authors:
   - wenjing
   - xinyu
   - jintian
+  - yongxi
   - chendong
   - yuyang
   - qihang
