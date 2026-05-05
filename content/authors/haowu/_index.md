@@ -10,7 +10,7 @@ last_name: Zhu
 superuser: true
 
 # Role/position
-role: PH.D student
+role: Ph.D. student
 
 # Organizations/Affiliations
 organizations:
@@ -56,4 +56,4 @@ user_groups:
   - Students
 ---
 
-A first-year full-time PhD student at the School of Computer Science, Shanghai Jiao Tong University, supervised by Prof. Panpan Cai. Meanwhile, I serves as the R&D Director at ACE Robotics.
+A first-year full-time Ph.D. student at the School of Computer Science, Shanghai Jiao Tong University, supervised by Prof. Panpan Cai. Meanwhile, I serves as the R&D Director at ACE Robotics.

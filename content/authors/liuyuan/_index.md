@@ -1,28 +1,31 @@
 ---
 # Display name
-title: Xinyu He
+title: Yuan Liu
 
 # Full Name (for SEO)
-first_name: Xinyu
-last_name: He
+first_name: Yuan
+last_name: Liu
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: Ph.D. student
+role: Undergraduate student
 
 # Organizations/Affiliations
 organizations:
+  - name: Shanghai Jiao Tong University
+    url: 'https://www.sjtu.edu.cn/'
   - name: Shanghai Innovation Institute
-    url: ''
+    url: 'https://www.sii.edu.cn/'
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include robotics, task planning under uncertainty
-interests:
-  - Robot planning and decision making
-  - Task Planning under Uncertainty
+bio: My research interests include robotics, robot manipulation, task planning under uncertainty
 
+interests:
+  - Robotics
+  - Manipulation
+  - Task Planning under Uncertainty
 # education:
 #   courses:
 #     - course: Msc in robotics
@@ -39,13 +42,10 @@ interests:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:xinyu-44@outlook.com'
-  - icon: google-scholar
-    icon_pack: ai
-    link: https://scholar.google.com/citations?user=O26twr4AAAAJ&hl
+    link: 'mailto:sjtu_liuyuan@sjtu.edu.cn'
   - icon: github
     icon_pack: fab
-    link: https://github.com/screw-44
+    link: https://github.com/binomialdist1225
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -53,7 +53,7 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ''
+email: 'sjtu_liuyuan@sjtu.edu.cn'
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false
@@ -64,4 +64,4 @@ user_groups:
   - Students
 ---
 
-He Xinyu is currently a Ph.D. student in RoPL.
+Yuan Liu is currently a Ph.D. student in RoPL.

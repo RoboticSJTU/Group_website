@@ -10,7 +10,7 @@ last_name: Xiao
 superuser: true
 
 # Role/position
-role: PH.D student
+role: Ph.D. student
 
 # Organizations/Affiliations
 organizations:
@@ -64,4 +64,4 @@ user_groups:
   - Students
 ---
 
-Xiaoyun Xiao is currently a PHD student in RoPL.
+Xiaoyun Xiao is currently a Ph.D. student in RoPL.

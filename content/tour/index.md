@@ -18,6 +18,19 @@ sections:
                 brightness: 0.7
             position: right
             color: "#747474ff"
+        - title: "Mimic Intent, Not Just Trajectories"
+          content: An intent-to-execution policy for precise and transferable robotic manipulation.
+          align: top
+          background:
+            image:
+              filename: mint.png
+              filters:
+                brightness: 0.7
+            position: center
+            color: "#747474ff"
+          link:
+            url: "https://github.com/RenMing-Huang/MINT"
+            text: Project Page
         - title: "AHAT: Any House, Any Task Planning!"
           content: Household task planner optimized for long-horizon planning in large environments given abstract human instruction.
           align: top
@@ -42,7 +55,7 @@ sections:
             position: center
             color: "#747474ff"
           link:
-            url: "https://unidomain.github.io/"
+            url: "https://roboticsjtu.github.io/UniDomain/"
             text: Project Page
 
         - title: "Tru-POMDP"

@@ -6,7 +6,7 @@ last_name: Huang
 
 superuser: false
 
-role: PhD Student  # or "Master Student", "Postdoc", etc.
+role: Ph.D. Student  # or "Master Student", "Postdoc", etc.
 
 organizations:
   - name: Shanghai Jiao Tong University
@@ -21,7 +21,7 @@ interests:
 
 education:
   courses:
-    - course: Ph.D in Computer Science
+    - course: Ph.D. in Computer Science
       institution: Shanghai Jiao Tong University
       year: 2021 - Present
 
@@ -38,4 +38,4 @@ user_groups:
   - Students  # Options: "Faculty", "Students", "Alumni"
 ---
 
-Ph.D student in RoPL co-supervised with Prof. [Cewu Lu](https://scholar.google.com/citations?user=QZVQEWAAAAAJ&hl=en).
+Ph.D. student in RoPL co-supervised with [Prof. Cewu Lu](https://scholar.google.com/citations?user=QZVQEWAAAAAJ&hl=en).

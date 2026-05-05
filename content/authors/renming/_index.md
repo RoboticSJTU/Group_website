@@ -10,7 +10,7 @@ last_name: Huang
 superuser: true
 
 # Role/position
-role: PH.D student
+role: Ph.D. student
 
 # Organizations/Affiliations
 organizations:
@@ -64,4 +64,4 @@ user_groups:
   - Students
 ---
 
-Renming Huang is currently a PHD student in RoPL.
+Renming Huang is currently a Ph.D. student in RoPL.

@@ -10,7 +10,7 @@ last_name: Zhou
 superuser: true
 
 # Role/position
-role: PH.D student
+role: Ph.D. student
 
 # Organizations/Affiliations
 organizations:

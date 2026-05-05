@@ -1,36 +1,37 @@
 ---
 # Display name
-title: Xinyu He
+title: Yanxin Dong
 
 # Full Name (for SEO)
-first_name: Xinyu
-last_name: He
+first_name: Yanxin
+last_name: Dong
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: Ph.D. student
+role: Visiting Student
 
 # Organizations/Affiliations
 organizations:
-  - name: Shanghai Innovation Institute
+  - name: Shanghai Jiao Tong University
     url: ''
+  - name: Technische Universität Berlin
+    url: "https://www.tu.berlin/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include robotics, task planning under uncertainty
-interests:
-  - Robot planning and decision making
-  - Task Planning under Uncertainty
+bio: My research interests include decision making and planning, autonomous driving and robotics.
 
-# education:
-#   courses:
-#     - course: Msc in robotics
-#       institution: xxx College, xxx University, China
-#       year: 2000
-#     - course: Bsc in robotics
-#       institution: xxx College, xxx University, China
-#       year: 2000
+interests:
+  - Robotics
+  - Autonomous driving
+  - Decision making and planning under uncertainty
+
+education:
+  courses:
+    - course: M.Sc. in AE
+      institution: Technische Universität Berlin
+      year: 2018 - 2022
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -39,13 +40,10 @@ interests:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:xinyu-44@outlook.com'
-  - icon: google-scholar
-    icon_pack: ai
-    link: https://scholar.google.com/citations?user=O26twr4AAAAJ&hl
+    link: 'mailto:yanxin.dong@campus.tu-berlin.de'
   - icon: github
     icon_pack: fab
-    link: https://github.com/screw-44
+    link: https://github.com/Ludadiesel
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -61,7 +59,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Students
+  - Visitors
 ---
 
-He Xinyu is currently a Ph.D. student in RoPL.
+Hi, I am Yanxin Dong, a visiting student at Shanghai Jiao Tong University (SJTU), advised by Prof. Panpan Cai. My research focuses on the challenges of decision making and planning under uncertainty. Specifically, my work improves the reliability and efficiency of intelligent agents in autonomous driving and robotics.
