@@ -18,60 +18,46 @@ sections:
                 brightness: 0.7
             position: right
             color: "#747474ff"
-        - title: "Mimic Intent, Not Just Trajectories"
-          content: An intent-to-execution policy for precise and transferable robotic manipulation.
+        - title: "PO-PDDL"
+          content: "Learning Symbolic POMDPs from Visual Demonstrations for Robot Planning Under Uncertainty"
           align: top
           background:
             image:
-              filename: mint.png
+              filename: popddl.png
               filters:
                 brightness: 0.7
             position: center
             color: "#747474ff"
           link:
-            url: "https://github.com/RenMing-Huang/MINT"
+            url: "https://roboticsjtu.github.io/PO-PDDL/"
             text: Project Page
-        - title: "AHAT: Any House, Any Task Planning!"
-          content: Household task planner optimized for long-horizon planning in large environments given abstract human instruction.
+        - title: "TGPO"
+          content: "Trace-Guided Policy Optimization for Robot Task Planning via Verifiable Subgoal Generation"
           align: top
           background:
             image:
-              filename: ahat_rss_version.png
+              filename: tgpo.png
               filters:
                 brightness: 0.7
             position: center
             color: "#747474ff"
           link:
-            url: "https://sii-liyang2024.github.io/ahat/"
+            url: "https://tgpo2026.github.io/TGPO/"
             text: Project Page
-        - title: "Unidomain"
-          content: "Pretraining a Unified PDDL Domain from Real-World Demonstrations for Generalizable Robot Task Planning"
+        - title: "I-Perceive"
+          content: "A Foundation Model for Vision-Language Active Perception"
           align: top
           background:
             image:
-              filename: unidomain.png
+              filename: iperceive.jpg
               filters:
                 brightness: 0.7
             position: center
             color: "#747474ff"
           link:
-            url: "https://roboticsjtu.github.io/UniDomain/"
+            url: "https://roboticsjtu.github.io/I-Perceive-Page/"
             text: Project Page
 
-        - title: "Tru-POMDP"
-          content: "Task Planning Under Uncertainty via Tree of Hypotheses and Open-Ended POMDPs"
-          align: top
-          background:
-            image:
-              filename: trupomdp.png
-              filters:
-                brightness: 0.7
-            position: center
-            color: "#747474ff"
-          link:
-            url: "https://tru-pomdp.github.io/"
-            text: Project Page
-    
         - title: "Hi-Drive"
           content: "Hierarchical POMDP Planning for Safe Autonomous Driving in Diverse Urban Environments"
           align: top
