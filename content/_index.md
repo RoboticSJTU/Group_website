@@ -14,7 +14,7 @@ sections:
       text: |
         <br>
         
-        The **RoPL** has been a center of excellence for Robotic research, teaching, and practice since its founding in 2022.
+        At **RoPL**, we study how robots can learn, reason, and act intelligently in an open, complex, and dynamic world.
   
   # - block: collection
   #   content:
